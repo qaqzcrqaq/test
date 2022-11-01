@@ -11,3 +11,5 @@
 
 #####补充#########
 1、远程仓库更新到本地：git merge
+2、git 更新远程分支列表
+git remote update origin -p                     git remote update origin --prune
